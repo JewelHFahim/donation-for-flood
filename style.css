@@ -96,3 +96,9 @@ body{
     text-align: center;
     font-size: 20px;
   }
+
+  hr{
+    width: 50%;
+    margin-bottom: 30px;
+
+  }
