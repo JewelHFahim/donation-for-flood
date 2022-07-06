@@ -102,3 +102,38 @@ body{
     margin-bottom: 30px;
 
   }
+
+  .donation-plan{
+
+    text-align: center;
+    padding: 50px 350px 20px 350px;
+  }
+
+  .donation-plan h1{
+    font-weight: 700;
+    font-size: 45px;
+  }
+
+  .donation-felx-container{
+    display: flex;
+    width: 80%;
+    margin-left: 150px;
+    
+  }
+.donation-felx-item{
+    margin: 20px;
+    padding: 30px;
+}
+
+.food{
+    background-color: #4f9da636;
+}
+
+.education{
+    background-color: #ff59592f;
+}
+
+.shelter{
+    background-color: #fff4d6f1;
+}
+
