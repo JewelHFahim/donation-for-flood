@@ -172,3 +172,20 @@ body{
 	font-size: 18px;
 	color: white;
 }
+
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: #FF5959;
+    padding: 25px 0px 25px 0px;
+}
+
+footer h1{
+    font-family: 'Lobster', cursive;
+}
+
+footer p{
+    color: white;
+    font-size: 12px;
+}
