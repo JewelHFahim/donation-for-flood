@@ -87,7 +87,7 @@ body{
 
  }
 
- input {
+ .custom-amount-user {
     border-top-style: hidden;
     border-right-style: hidden;
     border-left-style: hidden;
@@ -137,3 +137,38 @@ body{
     background-color: #fff4d6f1;
 }
 
+
+.subscribe {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: #FFF4D6;
+	width: 650px;
+	height: 200px;
+    margin: 0px 150px 50px 350px;
+}
+
+
+.form__email {
+	padding: 11px 25px;
+	border-radius: 5px;
+ 	border: 1px solid #FF5959;
+	width: 250px;
+	font-size: 18px;
+	color: gray;
+}
+
+.form__email:focus {
+	outline: 1px solid #06bd86;
+}
+
+.form__button {
+	background: #FF5959;
+	padding: 10px;
+	border: none;
+	width: 200px;
+	height: 45px;
+	border-radius: 5px;
+	font-size: 18px;
+	color: white;
+}
