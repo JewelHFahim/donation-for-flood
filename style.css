@@ -5,11 +5,11 @@ body{
 
 .header-section{
     text-align: center;
-    padding: 144px 250px;
-    background: url(images/dn4.png);
+    padding: 145px 250px;
+    background: url(images/vsb5.png);
     background-size: cover;
     background-position: center;
-    background-size: 1400px 1000px;
+    background-size: 1400px 1080px;
     background-repeat: no-repeat;
 }
 
@@ -192,7 +192,7 @@ footer p{
 
 .technical-ttatistics{
 
-    background-image: url(images/donation13.png);
+    background-image: url(images/vbs2.png);
     background-attachment: fixed;
     background-size: cover;
     height: 90vh;
@@ -202,16 +202,21 @@ footer p{
 
     color: white;
     padding: 50px 0px 0px 0px;
-    margin-left: 110px;
+    margin-left: 150px;
     font-size: 45px;
-
 }
+
+.technical-ttatistics h2{
+
+    font-size: 35px;
+}
+
 
 #tec-text{
 
     color: white;
     padding-bottom: 30px;
-    margin-left: 110px;
+    margin-left: 150px;
 }
 .bg-fixed{
 
@@ -224,8 +229,8 @@ footer p{
 .own-practice-sec{
 
     margin: 20px;
-    padding: 30px 70px 30px 70px;
-    background-color: rgba(255, 255, 255, 0.253);
+    padding: 30px 60px 30px 60px;
+    background-color: rgba(255, 255, 255, 0.247);
     text-align: center;
 
 }
