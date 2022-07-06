@@ -9,15 +9,14 @@ body{
     background: url(images/vsb7.png);
     background-size: cover;
     background-position: center;
-    background-size: 1400px 1080px;
     background-repeat: no-repeat;
 }
 
 
 .header-section h1{
 
-    font-weight: 700px;
-    font-size: 65px;
+    font-weight: 600px;
+    font-size: 60px;
     color: white;
 }
 
