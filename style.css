@@ -189,3 +189,43 @@ footer p{
     color: white;
     font-size: 12px;
 }
+
+.technical-ttatistics{
+
+    background-image: url(images/donation13.png);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 90vh;
+
+}
+.technical-ttatistics h1{
+
+    color: white;
+    padding: 50px 0px 0px 0px;
+    margin-left: 110px;
+    font-size: 45px;
+
+}
+
+#tec-text{
+
+    color: white;
+    padding-bottom: 30px;
+    margin-left: 110px;
+}
+.bg-fixed{
+
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+
+.own-practice-sec{
+
+    margin: 20px;
+    padding: 30px 70px 30px 70px;
+    background-color: rgba(255, 255, 255, 0.253);
+    text-align: center;
+
+}
